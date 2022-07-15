@@ -1,6 +1,9 @@
 # DA2022
 
   Data Analyst Portfolio
+  
+  ![image](https://user-images.githubusercontent.com/62079264/179235153-98ba05fb-c149-4da1-be5a-b8df306759e1.png)
+
 
 My DA roadmap started with Google Data Analyst on Coursera:
 
