@@ -22,3 +22,6 @@ My DA roadmap started with Google Data Analyst on Coursera:
   7: Data Analysis with R Programming
   
   8: Google Data Analytics Capstone: Complete a Case Study
+  
+  ![image](https://user-images.githubusercontent.com/62079264/179236355-70f0556a-2c38-424d-90bf-26d4cd06369f.png)
+
