@@ -1,11 +1,11 @@
 # DA2022
 
-  Data Analyst Portfolio
+  **Data Analyst Portfolio** :speech_balloon:
   
   ![image](https://user-images.githubusercontent.com/62079264/179235153-98ba05fb-c149-4da1-be5a-b8df306759e1.png)
 
 
-My DA roadmap started with Google Data Analyst on Coursera:
+***My DA roadmap started with Google Data Analyst on Coursera:***
 
   1: Foundations: Data, Data, Everywhere
   
@@ -32,4 +32,6 @@ My DA roadmap started with Google Data Analyst on Coursera:
   
   
   ![image](https://user-images.githubusercontent.com/62079264/179236355-70f0556a-2c38-424d-90bf-26d4cd06369f.png)
+  ![image](https://user-images.githubusercontent.com/62079264/179257598-d990e8d1-82b1-4ade-8525-043c332778cb.png)
+
 
